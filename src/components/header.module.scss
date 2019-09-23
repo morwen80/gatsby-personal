@@ -15,6 +15,13 @@
   margin-right: 1.3rem;
   text-decoration: none;
 }
+.nav-item:hover {
+  color: purple;
+}
+
+.active-nav-item {
+  color: #333;
+}
 
 .nav-list {
   display: flex;

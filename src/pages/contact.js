@@ -6,7 +6,7 @@ const ContactPage = () => {
     <Layout>
       <h1>Reach Out!</h1>
       <p>
-        <a href="https://twitter.com/ValeriaRagonese" target="_blank">Twitter</a>
+        <a href="https://twitter.com/ValeriaRagonese" target="_blank" rel="noopener noreferrer">Twitter</a>
       </p>
       </Layout>
   )
